@@ -25,4 +25,4 @@ _Example of a more scpecific correlation table_
 ![alt text](https://github.com/odeibarredo/River-Continuum-Concept/blob/master/img/05%20Correlation_example.jpeg?raw=true)
 
 
-*Note: the original data belongs to the University of the Basque Country, in which I studied my Master degree in environment._
+_*Note: the original data belongs to the University of the Basque Country, in which I studied my Master degree in environment._
